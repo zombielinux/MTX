@@ -1,3 +1,7 @@
+June 2021 update: This repo is now hosted at: https://github.com/mtx-org/mtx 
+This should be considered upstream for all future packagers. This repository on my personal account will not be updated further. 
+
+
 This is a clone of the original MTX project as found on https://sourceforge.net/projects/mtx/
 
 The project appears to be abandoned, the home page is down, and the latest changes stem from
@@ -11,3 +15,6 @@ logged here. I'll do my best to make the necessary changes, but I make no promis
 If you'd like to help out, reach out. 
 
    -- William Sutton <will@sutton-family.org>
+   
+   
+
